@@ -1,0 +1,9 @@
+Libreria
+
+#include <omp.h>
+
+Compilazione OPENMP
+
+gcc -fopenmp a.c
+
+./a.out
